@@ -1,0 +1,15 @@
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/TableType.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/utils/SqlUtils.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/AbstractDbDialect.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/utils/SqlTimestampConverter.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/AbstractSqlTemplate.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/mysql/MysqlDialect.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/client/AbstractDbClient.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/client/mysql/MysqlClient.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/SqlTemplate.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/utils/DdlUtils.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/utils/ByteArrayConverter.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/listener/DataBaseCanalListener.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/mysql/MysqlSqlTemplate.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/client/mysql/AbstractMysqlClient.java
+/Users/zhangrui/ant/common/common.database/src/main/java/com/etc/ant/common/database/dialect/DbDialect.java
