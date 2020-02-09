@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <groupId>com.etc</groupId>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>ant.kafka</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0</version>
+
+    <parent>
+        <artifactId>ant</artifactId>
+        <groupId>com.etc</groupId>
+        <version>1.0.0</version>
+    </parent>
+
+    <name>ant.kafka</name>
+    <description>基于canal和kafka将mysql数据同步到mysql从库、elasticsearch的方案</description>
+    <modules>
+        <module>kafka.database</module>
+        <module>kafka.elasticsearch</module>
+    </modules>
+
+</project>
