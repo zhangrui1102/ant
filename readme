@@ -1,1 +1,9 @@
-基于Canal的数据同步客户端
+基于Canal的数据同步客户端，支出多种模式同步
+
+1.mysql->mysql
+2.mysql->rocketmq->mysql
+3.mysql->kafaka->mysql
+
+4.mysql->elasticsearch
+5.mysql->rocketmq->elasticsearch
+6.mysql->kafaka->elasticsearch
