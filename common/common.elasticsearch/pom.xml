@@ -13,7 +13,7 @@
     <name>ant.common.elasticsearch</name>
     <description>基于canal的数据库同步方案，common-elasticsearch包</description>
     <properties>
-        <org.elasticsearch.version>6.4.1</org.elasticsearch.version>
+        <org.elasticsearch.version>7.11.2</org.elasticsearch.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
